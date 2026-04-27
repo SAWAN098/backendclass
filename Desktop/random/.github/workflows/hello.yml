@@ -1,5 +1,4 @@
-name : My First Workflows
-on : push
+
 
 jobs :
     job1:
